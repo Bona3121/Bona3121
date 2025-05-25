@@ -1,8 +1,7 @@
-![logo](https://github.com/Bona3121/Bona3121/blob/main/d0c317fcee4210fa47ab4cea257a5ac2.jpg)
 <h1 align="center">Hi 👋, I'm Marla</h1>
 <h3 align="center">Website, Project, and Product Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)">
+<img align="right" alt="coding" width="400" src="(https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 # 💫 About Me:
